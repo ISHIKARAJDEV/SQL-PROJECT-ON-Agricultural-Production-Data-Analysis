@@ -1,6 +1,6 @@
 # SQL-PROJECT-ON-Agricultural-Production-Data-Analysis
 
-## Acknowledgements
+## Acknowledgement
 
  Thanks to the **University of California** for providing the agricultural data.🌾
  
