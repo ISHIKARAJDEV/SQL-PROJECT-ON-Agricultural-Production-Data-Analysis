@@ -16,7 +16,7 @@ who are passionate about agriculture... or just really, really love cheese. 🧀
 Our goal? To create SQL tables so elegant that even your database will want to frame them! 📊
 
 ## Technologies Used
-This project is powered by a bunch of tools that have nothing to do with actual farming but make analyzing data a whole lot easier:
+This project is powered by  tool that have nothing to do with actual farming but make analyzing data a whole lot easier:
 
 **SQL**: MICROSOFT SQL SERVER Because Excel just isn’t enough for us data hoarders. 📈
 
