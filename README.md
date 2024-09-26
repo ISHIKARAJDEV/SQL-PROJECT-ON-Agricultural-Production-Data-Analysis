@@ -4,7 +4,7 @@
 
  Thanks to the **University of California** for providing the agricultural data.🌾
  
- Special thanks to coffee for keeping us going through late-night coding sessions. ☕
+ Special thanks to coffee for keeping me going through late-night coding sessions. ☕
 
  ## Project Overview
 Welcome to the **Agricultural Production Data Analysis** project, where we turn rows of numbers into insights—because analyzing crop data is the
