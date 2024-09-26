@@ -11,7 +11,7 @@ Welcome to the **Agricultural Production Data Analysis** project, where we turn 
 closest thing to magic farming. 🧙‍♂️
 
 This project gathers data on essential commodities such as cheese, honey, milk, coffee, eggs, and yogurt. It’s perfect for those 
-who are passionate about agriculture... or just really, really love cheese. 🧀
+who are passionate about agriculture or just really, really love cheese. 🧀
 
 Our goal? To create SQL tables so elegant that even your database will want to frame them! 📊
 
@@ -30,10 +30,10 @@ So, you’ve made it this far. Congrats! Now let’s get serious (just kidding, 
    
 5. **Analyze**: Run some queries, get insights, and maybe impress your boss  with fancy reports. 📊🐱
 
- ✨ Pro tip: Don’t panic if you get stuck, that’s what they are for. Just make sure you haven’t copied and pasted the wrong script from some random forum post. 😅
+ ✨** Pro tip: Don’t panic if you get stuck, that’s what they are for. Just make sure you haven’t copied and pasted the wrong script from some random forum post. 😅**
 
 ## Code
-Here lies the code... treat it with care 🤖
+Here lies the code treat it with care 🤖
 
 CREATE TABLE cheese_production (
 
@@ -296,7 +296,7 @@ Answer: No
 
 
 ## License with a Twist
-📜 **License**: You can use this project for whatever you want... unless it’s to hack a farm. 🐄
+📜 **License**: You can use this project for whatever you want unless it’s to hack a farm. 🐄
 
 
 
